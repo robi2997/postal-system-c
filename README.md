@@ -25,3 +25,10 @@ make
 - Manual memory management in C (malloc/free)
 - Bit manipulation for data encoding
 - Implementing sorting algorithms from scratch
+
+## Tests
+Sample test files are provided in the `tests/` folder.
+
+Run all tests:
+./pachete < tests/test1_input.txt
+./pachete < tests/test2_input.txt
