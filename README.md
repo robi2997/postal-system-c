@@ -19,3 +19,9 @@ make
 - Bit manipulation for binary address parsing
 - Multi-criteria sorting algorithm
 - Prime factorization for bit-level tampering detection
+
+
+## What I Learned
+- Manual memory management in C (malloc/free)
+- Bit manipulation for data encoding
+- Implementing sorting algorithms from scratch
