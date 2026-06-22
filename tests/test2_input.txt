@@ -1,0 +1,17 @@
+4
+2
+Cartier1
+Cartier2
+3
+0 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 1 0
+5
+10.3
+Cel din urma pachet
+0 0 0 0 0 1 0 1 0 1 0 1 0 0 0 0 1 0
+5
+12.312
+Al treilea pachet
+0 0 0 0 1 1 0 1 0 1 1 1 1 0 0 0 1 0
+2
+22.3
+Primul pachet
